@@ -2,8 +2,8 @@ Windows
 =
 Настройка через Nekobox
 -
-1. Скачать с диска `nekoray-4.0.1-2024-12-12-windows64.zip`: 
-    https://drive.google.com/drive/folders/1DSgKteZjMDF-nR_mYhdBUPWiibZBVLLO
+1. Скачать [nekoray-4.0.1-2024-12-12-windows64.zip](https://github.com/MatsuriDayo/nekoray/releases/download/4.0.1/nekoray-4.0.1-2024-12-12-windows64.zip) 
+
 
 1. Разархивировать, запустить файл `nekobox.exe`
 
