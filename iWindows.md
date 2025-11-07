@@ -25,7 +25,8 @@ Windows
 
     ![2](https://github.com/aero-mode/am1/blob/main/src/nekoray3.png)
 
-1. `Программа` -> `Запомнить последний профиль` 
+1. `Программа` -> `Запомнить последний профиль`
+
     ![](https://github.com/aero-mode/am1/blob/main/src/nekoray9.png)
 
 
