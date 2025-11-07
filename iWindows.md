@@ -1,4 +1,4 @@
-1. Скачать с диска: [nekoray-4.0.1-2024-12-12-windows64.zip](https://drive.google.com/drive/folders/1DSgKteZjMDF-nR_mYhdBUPWiibZBVLLO?usp=drive_link)
+1. Скачать с диска nekoray-4.0.1-2024-12-12-windows64.zip: https://drive.google.com/drive/folders/1DSgKteZjMDF-nR_mYhdBUPWiibZBVLLO
 
 2. Разархивировать, запустить файл nekobox.exe
 
