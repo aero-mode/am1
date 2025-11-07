@@ -1,8 +1,8 @@
 1. Скачать с диска: [nekoray-4.0.1-2024-12-12-windows64.zip](https://drive.google.com/drive/folders/1DSgKteZjMDF-nR_mYhdBUPWiibZBVLLO?usp=drive_link)
 
-2. Разархивировать, запустить файл v2rayN.exe
+2. Разархивировать, запустить файл nekobox.exe
 
-    ![alt text](https://github.com/aero-mode/am1/blob/main/src/explorer1.png)
+    ![](https://github.com/aero-mode/am1/blob/main/src/explorer1.png)
 
 3. Дать разрешение приложению
 
