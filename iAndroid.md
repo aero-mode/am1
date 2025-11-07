@@ -15,5 +15,18 @@ Android
 
 1. Установите скачанный файл при необходимости дайте разрешение telegram или вашему браузеру на установку приложений
 
+1. Скопировать ссылку на подключение `vless://534123-gdfg...`
+
 1. В приложении добавьте конфиг через кнопку `+` 
 ![](https://github.com/aero-mode/am1/blob/main/src/images/Android/v2rayNG_1.jpg)
+
+1. `Импорт из буфера обмена` (если выдало ошибку повторите с 4 пункта)
+![](https://github.com/aero-mode/am1/blob/main/src/images/Android/v2rayNG_2.jpg)
+
+1. Тапните по конфигу что бы выбрать его, включайте подключение через кнопку в низу экрана 
+![](https://github.com/aero-mode/am1/blob/main/src/images/Android/v2rayNG_3.jpg)
+
+1. При необходимости разрешить доступ
+![](https://github.com/aero-mode/am1/blob/main/src/images/Android/v2rayNG_4.jpg)
+
+1. Выключить подключение можно через туже кнопку снизу
