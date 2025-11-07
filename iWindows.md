@@ -9,7 +9,7 @@ Windows
 
     ![](https://github.com/aero-mode/am1/blob/main/src/images/Windows/nekoray_1.png)
 
-1. Дать разрешение приложению
+1. При необходимости `Разрешить доступ`
 
     ![1](https://github.com/aero-mode/am1/blob/main/src/images/Windows/nekoray_2.png)
 
@@ -21,7 +21,7 @@ Windows
 
 1.  
     - [x] Включить `Режим TUN`
-    
+
     Правой кнопкой по конфигу -> `Запустить`
 
     ![2](https://github.com/aero-mode/am1/blob/main/src/images/Windows/nekoray_4.png)
