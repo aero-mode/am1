@@ -6,7 +6,7 @@ iOS & macOS
 1. Установите приложение с App Store [Global](https://apps.apple.com/us/app/happ-proxy-utility/id6504287215) [Rus](https://apps.apple.com/ru/app/happ-proxy-utility-plus/id6746188973)
 
 1. Нажмите `Разрешить`
-![](https://github.com/aero-mode/am1/blob/main/src/images/iOS/Happ_1.PNG)
+![](https://github.com/aero-mode/am1/blob/main/src/images/iOS/Happ_10.PNG)
 
 1. Скопируйте ссылку на подключение `vless://534123-gdfg...`
 
