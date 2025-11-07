@@ -13,4 +13,7 @@ Android
     [v2rayNG_1.10.26_x86.apk](https://github.com/2dust/v2rayNG/releases/download/1.10.26/v2rayNG_1.10.26_x86.apk)           | редкие планшеты, эмуляторы, Intel-устройства
     [v2rayNG_1.10.26_x86_64.apk](https://github.com/2dust/v2rayNG/releases/download/1.10.26/v2rayNG_1.10.26_x86_64.apk)           | эмуляторы Android (BlueStacks, LDPlayer и др.)
 
-1. Установите скачанный файл при необходимости дайте разрешение telegram или вашему браузеру на установку приложений 
+1. Установите скачанный файл при необходимости дайте разрешение telegram или вашему браузеру на установку приложений
+
+1. В приложении добавьте конфиг через кнопку `+` 
+![](https://github.com/aero-mode/am1/blob/main/src/images/Android/v2rayNG_1.jpg)
