@@ -21,7 +21,7 @@ Windows
 
 1.  
     - [x] Включить `Режим TUN`
-    - Правой кнопкой по конфигу -> `Запустить`
+    Правой кнопкой по конфигу -> `Запустить`
 
     ![2](https://github.com/aero-mode/am1/blob/main/src/images/Windows/nekoray_4.png)
 
