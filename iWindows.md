@@ -14,7 +14,7 @@
 
     ![2](https://github.com/aero-mode/am1/blob/main/src/nekoray2.png)
 
-6. 1) Включить "Режим TUN", 2) Правой кнопкой по конфигу -> Запустить
+6. 1 ) Включить "Режим TUN", 2 ) Правой кнопкой по конфигу -> Запустить
 
     ![2](https://github.com/aero-mode/am1/blob/main/src/nekoray3.png)
 
