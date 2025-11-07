@@ -30,4 +30,4 @@ Windows
     ![](https://github.com/aero-mode/am1/blob/main/src/nekoray9.png)
 
 
-
+каждый запуск программы выполняйте 6 пункт и впн будет работать.
