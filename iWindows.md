@@ -6,11 +6,11 @@ Windows
 
 1. Разархивировать, запустить файл `nekobox.exe`
 
-    ![](images/Windows/nekoray_1.png)
+    ![](src/images/Windows/nekoray_1.png)
 
 1. При необходимости `Разрешить доступ`
 
-    ![1](images/Windows/nekoray_2.png)
+    ![1](src/images/Windows/nekoray_2.png)
 
 2. Скопировать ссылку на подключение `vless://534123-gdfg...`
 
