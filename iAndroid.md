@@ -18,15 +18,15 @@ Android
 1. Скопировать ссылку на подключение `vless://534123-gdfg...`
 
 1. В приложении добавьте конфиг через кнопку `+` 
-![](https://github.com/aero-mode/am1/blob/main/src/images/Android/v2rayNG_1.jpg)
+![](src/images/Android/v2rayNG_1.jpg)
 
 1. Выберите `Импорт из буфера обмена` (если выдало ошибку повторите с 4 пункта) или `Импорт из QR-кода` для сканирования конфига 
-![](https://github.com/aero-mode/am1/blob/main/src/images/Android/v2rayNG_2.jpg)
+![](src/images/Android/v2rayNG_2.jpg)
 
 1. Тапните по конфигу чтобы выбрать его, включайте подключение через кнопку внизу экрана
-![](https://github.com/aero-mode/am1/blob/main/src/images/Android/v2rayNG_3.jpg)
+![](src/images/Android/v2rayNG_3.jpg)
 
 1. При необходимости разрешить доступ
-![](https://github.com/aero-mode/am1/blob/main/src/images/Android/v2rayNG_4.jpg)
+![](src/images/Android/v2rayNG_4.jpg)
 
 1. Выключить подключение можно через ту же кнопку

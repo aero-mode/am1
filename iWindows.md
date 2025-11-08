@@ -16,18 +16,18 @@ Windows
 
 3. `Программа` -> `Добавить профиль из буфера обмена` 
 
-    ![2](https://github.com/aero-mode/am1/blob/main/src/images/Windows/nekoray_3.png)
+    ![2](src/images/Windows/nekoray_3.png)
 
 4.  
     - [x] Включить `Режим TUN`
 
     Правой кнопкой по конфигу -> `Запустить`
 
-    ![2](https://github.com/aero-mode/am1/blob/main/src/images/Windows/nekoray_4.png)
+    ![2](src/images/Windows/nekoray_4.png)
 
 5. `Программа` -> `Запомнить последний профиль`
 
-    ![](https://github.com/aero-mode/am1/blob/main/src/images/Windows/nekoray_10.png)
+    ![](src/images/Windows/nekoray_10.png)
 
 
 каждый запуск программы выполняйте 6 пункт и впн будет работать.
