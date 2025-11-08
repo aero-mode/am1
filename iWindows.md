@@ -7,7 +7,7 @@ Windows
 
 1. Разархивировать, запустить файл `nekobox.exe`
 
-    ![](https://github.com/aero-mode/am1/blob/main/src/images/Windows/nekoray_1.png)
+    ![](src/images/Windows/nekoray_1.png)
 
 1. При необходимости `Разрешить доступ`
 
