@@ -1,10 +1,10 @@
 Пред инструкция: Подкдючение = конифиг = соединение
 
 
-[**Инструкция для Windows**](https://github.com/aero-mode/am1/blob/main/iWindows.md)
+[**Инструкция для Windows**](iWindows.md)
 
-[**Инструкция для Android**](https://github.com/aero-mode/am1/blob/main/iAndroid.md)
+[**Инструкция для Android**](iAndroid.md)
 
-[**Инструкция для iOS & macOS**](https://github.com/aero-mode/am1/blob/main/iOS%20%26%20macOS.md)
+[**Инструкция для iOS & macOS**](iOS%20%26%20macOS.md)
 
-[**Инструкция для Linux**](https://github.com/aero-mode/am1/blob/main/iLinux.md)
+[**Инструкция для Linux**](iLinux.md)
