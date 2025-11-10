@@ -1,10 +1,10 @@
 Пред инструкция: Подкдючение = конифиг = соединение
 
 
-[**Инструкция для Windows**](iWindows.md)
+[**Инструкция для Windows**](ins_Windows.md)
 
-[**Инструкция для Android**](iAndroid.md)
+[**Инструкция для Android**](ins_Android.md)
 
-[**Инструкция для iOS & macOS**](iOS%20%26%20macOS.md)
+[**Инструкция для iOS & macOS**](ins_iOS_macOS.md)
 
-[**Инструкция для Linux**](iLinux.md)
+[**Инструкция для Linux**](ins_Linux.md)
